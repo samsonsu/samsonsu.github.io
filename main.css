@@ -1,0 +1,50 @@
+body{
+	color: #943;
+	margin: 0;
+	background: #eee;
+}
+
+#main-panel{ 
+	margin: 0 auto;
+}
+
+#main-panel:hover{
+	background-color: #f34; 
+}
+#about-me{
+	width: 492px;
+	background: #f00;
+	font-size: 100px; 
+	margin-top: 1%;
+	margin-left: 0px;
+	margin-right: 10px;
+	text-align: center;
+	color: #333;
+	padding: 10px;
+}
+
+a{
+	color: #0f0;
+}
+
+#yay{
+	margin-top: 10%;
+	width: 100px;
+}
+
+#yay:hover{
+	background-color: #658;
+}
+
+#pictureshiet{
+	width: 50%;
+}
+
+.me{
+	width: 492px;
+	background: #f00;
+	font-size: 100px; 
+	text-align: center;
+	color: #333;
+	padding: 10px;
+}
